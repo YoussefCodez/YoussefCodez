@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Youssef
 
-<!--
-**YoussefCodez/YoussefCodez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Flutter Mobile Developer
 
-Here are some ideas to get you started:
+I am a mobile application developer specialized in building high-quality applications using **Flutter**. I focus on turning ideas and UI designs into real, fully functional apps that deliver excellent performance, clean architecture, and smooth user experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 What I Do
+
+* Develop cross-platform applications for **Android, iOS, Web, and Desktop**
+* State management using **Bloc / Cubit** And **Provider**
+* Integrate with **Firebase & Supabase**
+* Build scalable and maintainable architectures
+* Create responsive and modern UI from Figma designs
+* Work with REST APIs and real-time databases
+
+### 🛠 Tech Stack
+
+* Flutter & Dart
+* Bloc / Cubit
+* Provider
+* Firebase – Supabase
+* Clean Architecture
+* REST APIs
+* Git & GitHub
+
+### 🎯 My Goal
+
+I enjoy solving technical challenges and building complete systems such as restaurant apps, e-commerce platforms, and dashboards. My goal is to deliver practical products that meet user needs, with clean code, reliable performance, and clear communication throughout the project lifecycle.
+
+📩 Always open to collaboration and new ideas!
