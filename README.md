@@ -16,7 +16,9 @@ I am a mobile application developer specialized in building high-quality applica
 ### 🛠 Tech Stack
 
 * Flutter & Dart
+* Kotlin
 * Bloc / Cubit
+* Riverpod
 * Provider
 * Firebase – Supabase
 * Clean Architecture
